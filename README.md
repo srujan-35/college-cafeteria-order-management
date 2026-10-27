@@ -8,9 +8,9 @@
 - group memembers;
 - NAME:SRUJAN HS,ROLL NO:20251ece0109
 - NAME:MULA ARAVIND KUMAR REDDY ,ROLL NO:20251ECE0111				
--DERANGULA TEJ KRISHNA ,ROLL NO:20251ECE0112	
--GOPAVARAM RAM CHAITHANYA ROOLNO:20251ECE0113			
--BILLA VENKATA RAHUL ROLL NO:20251ECE0114
+- NAME:DERANGULA TEJ KRISHNA ,ROLL NO:20251ECE0112	
+- NAME:GOPAVARAM RAM CHAITHANYA ROOLNO:20251ECE0113			
+- NAME:BILLA VENKATA RAHUL ROLL NO:20251ECE0114
 
 ## Problem Statement
 College cafeterias receive multiple food orders during peak hours. Managing pending orders, processing them in the correct sequence, calculating bills, and tracking completed sales manually can be difficult.
